@@ -15,7 +15,6 @@ else:
 
 '''
 Read T and M_total.
-Use an if statement to check if 
 M_total is less than 60, or if 
 M_total is not a multiple of 10, or if 
 T is too large (T >= M_total). If so, print "INVALID INPUT".

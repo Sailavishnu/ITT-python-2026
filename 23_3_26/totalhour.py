@@ -11,7 +11,7 @@ else:
         print(f"d: {d} and h :{h}")
 
 '''Read T and H_total.
-Use an if statement to check if 
+
  is odd, or less than 24, or if 
  is too large. If so, print "INVALID INPUT".
 Calculate D using the formula: (H_total - 18 * T) // 6.
