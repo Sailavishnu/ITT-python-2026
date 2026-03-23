@@ -1,4 +1,4 @@
-# ITT-python_2026 🐍
+# ITT-python_2026 
 
 This repository is dedicated to my journey through the **ITT 2026** program. It serves as a central place to store, track, and share the Python logic I develop throughout the course.
 
