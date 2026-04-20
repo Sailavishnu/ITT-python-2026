@@ -17,4 +17,6 @@ else:
 Calculate D using the formula: (H_total - 18 * T) // 6.
 Calculate H using: T - D.
 Print the result in the format D = 10, H = 5
+
+
 '''
